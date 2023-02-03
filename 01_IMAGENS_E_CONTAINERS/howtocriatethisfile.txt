@@ -1,0 +1,1 @@
+Para criar esse arquivo, basta rodar o comando docker < cp container_teste:/app/howtocriatethisfile.txt ./copia/ >
